@@ -1,0 +1,8 @@
+# This system was installed using small removable media
+# (e.g. netinst, live or single CD). The matching "deb cdrom"
+# entries were disabled at the end of the installation process.
+# For information about how to configure apt package sources,
+# see the sources.list(5) manual.
+
+deb http://http.kali.org/kali kali-rolling main contrib non-free
+deb http://http.kali.org/kali kali-last-snapshot main contrib non-free
