@@ -35,6 +35,6 @@ sudo apt clean
 sudo apt purge $OLDCONF
 sudo apt purge $OLDKERNELS
 sudo apt update
-echo -e $YELLOW"[ + ] Finished optimizing "$ENDCOLOR
-echo -e $YELLOW"[ + ] Good! There is no BAD MOJO now! "$ENDCOLOR
+echo -e $YELLOW"[ + ] Finished optimization "$ENDCOLOR
+echo -e $YELLOW"[ + ] Good!  "$ENDCOLOR
 echo -e 
